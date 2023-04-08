@@ -1,0 +1,44 @@
+body {
+    margin: auto;
+    max-width: 800px; /* Opcional: establece un ancho máximo para el contenido del body */
+    background-color: #dbdbdb;
+    }
+
+h1 {
+    text-align: center;
+      }
+
+header {
+    background-color: #272727;
+    color: #fff;
+    padding: 20px;
+    }
+
+
+    nav {
+        background-color: #333;
+        color: #fff;
+        padding: 10px;
+      }
+      
+      ul {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+      }
+      
+      li {
+        display: inline-block;
+        margin-right: 20px;
+      }
+      
+      a {
+        color: #fff;
+        text-decoration: none;
+      }
+
+      section {
+        background-color: #eee;
+        border: 1px solid #a1a0a0;
+        padding: 10px;
+      }
